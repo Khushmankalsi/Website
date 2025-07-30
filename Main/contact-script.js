@@ -241,4 +241,4 @@ const throttledScrollHandler = throttle(() => {
 
 window.addEventListener('scroll', throttledScrollHandler);
 
-console.log('🚀 WebDev Pro - Contact Page Loaded Successfully!');
+console.log('🚀 WebSynq - Contact Page Loaded Successfully!');

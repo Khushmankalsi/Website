@@ -366,4 +366,4 @@ const throttledScrollHandler = throttle(() => {
 
 window.addEventListener('scroll', throttledScrollHandler);
 
-console.log('🚀 WebDev Pro - Animated Website Loaded Successfully!');
+console.log('🚀 Websynq - Animated Website Loaded Successfully!');

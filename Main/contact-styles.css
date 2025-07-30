@@ -352,6 +352,7 @@
     color: white;
     font-size: 1.2rem;
     transition: all 0.3s ease;
+    text-decoration:  none !important;
 }
 
 .social-link:hover {
@@ -360,7 +361,7 @@
 }
 
 .facebook-gradient { background: linear-gradient(45deg, #3b5998, #5d7dc4); }
-.twitter-gradient { background: linear-gradient(45deg, #1da1f2, #5eb9f6); }
+.twitter-gradient { background: linear-gradient(45deg, #1df24f, #70f65e); }
 .instagram-gradient { background: linear-gradient(45deg, #833ab4, #fd1d1d, #fcb045); }
 .linkedin-gradient { background: linear-gradient(45deg, #0077b5, #00a0dc); }
 

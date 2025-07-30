@@ -315,13 +315,12 @@ body {
 
 /* Stats Cards */
 .stats-card {
-    background: rgba(139, 92, 246, 0.1);
+    background: #26273c;
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 20px;
     padding: 2rem;
     backdrop-filter: blur(10px);
 }
-
 .stat-item {
     padding: 1rem;
 }
